@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o,c as r}from"./app.1b474bae.js";const n={};function t(c,_){return o(),r("div")}var f=e(n,[["render",t],["__file","knowlinux.html.vue"]]);export{f as default};
